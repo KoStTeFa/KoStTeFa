@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoStTeFa
 - 👀 I’m interested in Basketball, sport programming, and ctf
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Java
 - 💞️ I’m currently learning ...
 - 📫 Telegram: @KoStEfFaG
 
